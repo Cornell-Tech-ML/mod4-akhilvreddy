@@ -36,4 +36,11 @@ The files that will be synced are:
         minitorch/tensor_data.py minitorch/tensor_functions.py minitorch/tensor_ops.py minitorch/operators.py minitorch/scalar.py minitorch/scalar_functions.py minitorch/module.py minitorch/autodiff.py minitorch/module.py project/run_manual.py project/run_scalar.py project/run_tensor.py minitorch/operators.py minitorch/module.py minitorch/autodiff.py minitorch/tensor.py minitorch/datasets.py minitorch/testing.py minitorch/optim.py minitorch/tensor_ops.py minitorch/fast_ops.py minitorch/cuda_ops.py project/parallel_check.py tests/test_tensor_general.py
 
 
+
+# Results
+
 Please refer to `sentiment.txt` and `mnist.txt` in this directory for the training logs.
+
+
+- [sentiment.txt](https://github.com/Cornell-Tech-ML/mod4-akhilvreddy/blob/master/sentiment.txt)
+- [mnist.txt](https://github.com/Cornell-Tech-ML/mod4-akhilvreddy/blob/master/mnist.txt)
