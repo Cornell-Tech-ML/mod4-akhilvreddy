@@ -37,8 +37,10 @@ The files that will be synced are:
 
 
 
-
+# Results
 
 Please refer to `sentiment.txt` and `mnist.txt` in this directory for the training logs.
-[sentiment.txt]()
-[mnist.txt]()
+
+
+- [sentiment.txt](https://github.com/Cornell-Tech-ML/mod4-akhilvreddy/blob/master/sentiment.txt)
+- [mnist.txt](https://github.com/Cornell-Tech-ML/mod4-akhilvreddy/blob/master/mnist.txt)
